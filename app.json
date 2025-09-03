@@ -1,0 +1,8 @@
+{
+  "expo": {
+    "name": "dyad-react-native-expo-template",
+    "slug": "dyad-react-native-expo-template",
+    "plugins": ["expo-router"],
+    "experiments": { "typedRoutes": false }
+  }
+}
